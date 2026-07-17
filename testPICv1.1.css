@@ -1,0 +1,20 @@
+/* 1. 让网格线消失 */
+.blocklyMainBackground {
+    fill: transparent !important;
+}
+
+/* 2. 关键改动：直接把背景图贴在 SVG 画布上（不再依赖外层 div） */
+.blocklySvg {
+    background-image: url('你的图片直链.jpg') !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    
+    /* 确保 SVG 自身的背景色是透明的，让图片露出来 */
+    background-color: transparent !important;
+}
+
+/* 3. （可选）如果你还想留个调试标记，给 SVG 加个边框验证一下 */
+.blocklySvg {
+    border: 2px solid red !important;
+}
