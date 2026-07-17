@@ -13,8 +13,3 @@
     /* 确保 SVG 自身的背景色是透明的，让图片露出来 */
     background-color: transparent !important;
 }
-
-/* 3. （可选）如果你还想留个调试标记，给 SVG 加个边框验证一下 */
-.blocklySvg {
-    border: 2px solid red !important;
-}
