@@ -5,7 +5,7 @@
 
 /* 2. 关键改动：直接把背景图贴在 SVG 画布上（不再依赖外层 div） */
 .blocklySvg {
-    background-image: url('你的图片直链.jpg') !important;
+    background-image: url('https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEXalNqWjxNvj7Hz0Kg9f8skerPdpbS4gACpzIAAisD0Fa3B038PHh-nj0E.png') !important;
     background-size: cover !important;
     background-position: center center !important;
     background-repeat: no-repeat !important;
