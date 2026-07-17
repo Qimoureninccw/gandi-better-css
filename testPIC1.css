@@ -11,6 +11,9 @@
     fill: transparent !important;   /* SVG 画布的底色变透明 */
 }
 
+#injectionDiv, #blocklyDiv, .blocklyWorkspace {
+    border: 5px solid red !important;
+}
 /* 3. （可选）如果你还想保留网格线，可以这样加在图片上层 */
 /* 
 .blocklyMainBackground {
