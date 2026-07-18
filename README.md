@@ -9,8 +9,12 @@
 鼠标右键蓝色链接选择复制链接
 ***
 * testPICv1.1-pre2.css(示例文件)
-  * [testPICv1.1-pre2](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/testPICv1.1-pre2.css)
+  * [testPICv1.1-pre2](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/testPICv1.1-pre2.css?v=1)
   * 预览见上
+* 芙宁娜1.css
+  * [芙宁娜1](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%E8%8A%99%E5%AE%81%E5%A8%9C1.css?v=1)
+  * <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/017aefd0-223d-4478-9625-367fa4058bef" />
+
 ***
 如何加载？
 1.打开gandi
