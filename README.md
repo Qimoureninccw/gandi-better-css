@@ -9,4 +9,11 @@
 ***
 * testPICv1.1-pre2.css(示例文件)
   * [testPICv1.1-pre2](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/testPICv1.1-pre2.css)
-
+  * 预览见上
+***
+如何加载？
+1.打开gandi
+2.打开设置，点击"插件"，启用自定义主题
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6ca63ae5-1d10-44e2-bef1-3318460ea4f8" />
+3.代开插件，点击从url加载，随后输入上方的链接即可
+<img width="1279" height="679" alt="image" src="https://github.com/user-attachments/assets/6ef825dc-0a52-479c-97aa-db125e5ec1c2" />
