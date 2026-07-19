@@ -14,6 +14,10 @@
 * 芙宁娜1.css
   * [芙宁娜1](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%E8%8A%99%E5%AE%81%E5%A8%9C1.css?v=1)
   * <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/017aefd0-223d-4478-9625-367fa4058bef" />
+* 线条小狗1.css
+  * [线条小狗1](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%971.css)
+  * <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4d0b6aa1-6051-4524-b603-9325ac4a55aa" />
+
 
 ***
 如何加载？
