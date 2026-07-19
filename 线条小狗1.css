@@ -1,0 +1,11 @@
+.blocklyMainBackground {
+    fill: transparent !important;
+}
+
+.blocklySvg {
+    background-image: url('https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEXe_NqXJl2C-h9t7bmE2tlPPCAujeajAACuiQAAl5o6Fbr28CstJKYeT0E.jpeg') !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-color: transparent !important;
+}
