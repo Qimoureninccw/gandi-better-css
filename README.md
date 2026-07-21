@@ -17,7 +17,9 @@
 * 线条小狗1.css
   * [线条小狗1](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%971.css?v=1)
   * <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4d0b6aa1-6051-4524-b603-9325ac4a55aa" />
-
+* [动图]良子肘击地球
+  * [良子肘击地球](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%5B%E5%8A%A8%E5%9B%BE%5D%E8%89%AF%E5%AD%90%E8%82%98%E5%87%BB%E5%9C%B0%E7%90%83.css?v=1)
+  * <img width="1920" height="1020" alt="image" src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEXgN5qXQIMjAICny-uuAjISZg2ErqMQAACYSoAAl5o6FZ9Dea0RcaHRT0E.webp">
 
 ***
 如何加载？
