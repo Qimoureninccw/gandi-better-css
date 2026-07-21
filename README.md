@@ -3,7 +3,7 @@
 > 一般不需要你进行转换，该仓库内文件均已转换。
 > 原因为国内访问Github不稳定，而JSdeliver有全球CDN加速，访问相比Github会快很多
 ***
-示例(testPICv1.1-pre2.css)：
+示例(猫羽雫1)：
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/03c1baae-0580-4757-9691-39cc1423da76" />
 ***
 以下是文件所对应的直链，可以直接加载
