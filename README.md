@@ -1,6 +1,7 @@
 # 这个仓库是为了美化Gandi编辑器所建立的
 一般不使用此仓库，我们使用[JSdeliver](https://www.jsdelivr.com/github)生成直链随后进行加载。
 > 一般不需要你进行转换，该仓库内文件均已转换。
+> 原因为国内访问Github不稳定，而JSdeliver有全球CDN加速，访问相比Github会快很多
 ***
 示例(testPICv1.1-pre2.css)：
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/03c1baae-0580-4757-9691-39cc1423da76" />
@@ -8,8 +9,8 @@
 以下是文件所对应的直链，可以直接加载
 鼠标右键蓝色链接选择复制链接
 ***
-* testPICv1.1-pre2.css(示例文件)
-  * [testPICv1.1-pre2](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%E7%8C%AB%E7%BE%BD%E9%9B%AB1.css?v=1)
+* 猫羽雫1(示例文件)
+  * [猫羽雫1](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%E7%8C%AB%E7%BE%BD%E9%9B%AB1.css?v=1)
   * 预览见上
 * 芙宁娜1.css
   * [芙宁娜1](https://cdn.jsdelivr.net/gh/Qimoureninccw/gandi-better-css@main/%E8%8A%99%E5%AE%81%E5%A8%9C1.css?v=1)
